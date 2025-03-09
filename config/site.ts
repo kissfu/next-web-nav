@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "AI导航",
+  name: "我们聊聊吧,AI聊吧",
   description: "我们聊聊吧，可以解决您的问题。We Chat Pub 聊吧(wc.pub)",
   mainNav: [],
   links: {
