@@ -59,6 +59,11 @@ export const NavData: NavData[] = [
         title: "Kimi",
         desc: "Kimi是北京月之暗面科技有限公司于2023年10月9日推出的一款智能助手，主要应用场景为专业学术论文的翻译和理解、辅助分析法律问题、快速理解API开发文档等，是全球首个支持输入20万汉字的智能助手产品。",
         link: "https://kimi.moonshot.cn" 
+      },{
+        icon: "https://cdn-bot.hunyuan.tencent.com/logo.png",
+        title: "元宝",
+        desc: "我是腾讯元宝，一个由腾讯打造的智能小助手！目前我正在使用Hunyuan-T1模型为您提供服务，支持通过文字、图片、文件等多种方式互动。无论是解答问题、学习新知识、创作内容，还是编程开发、图像生成，甚至日常闲聊",
+        link: "https://yuanbao.tencent.com" 
       },
       {
         icon: "https://www.wenxiaobai.com/new_favicon.ico",
