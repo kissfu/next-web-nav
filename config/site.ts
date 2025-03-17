@@ -74,6 +74,23 @@ export const NavData: NavData[] = [
     ]
   },
   {
+    title: "外围",
+    items: [
+      {
+        icon: "https://www.wc.pub/wc.png",
+        title: "ChatGPT",
+        desc: "由 OpenAI 开发，主要提供 智能对话、知识咨询、数据分析、代码辅助 等服务",
+        link: "https://chat.openai.com" 
+      },
+      {
+        icon: "https://www.wc.pub/wc.png",
+        title: "Gemini",
+        desc: "Google DeepMind（谷歌母公司Alphabet下设立的人工智能实验室）于2023年12月6日发布的人工智能模型，可同时识别文本、图像、音频、视频和代码五种类型信息，还可以理解并生成主流编程语言的高质量代码",
+        link: "https://gemini.google.com" 
+      }
+    ]
+  },
+  {
     title: "中介",
     items: [
       {
