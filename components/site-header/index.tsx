@@ -99,6 +99,7 @@ export function SiteHeader() {
           </CommandGroup>
         </CommandList>
       </CommandDialog>
+      <meta name="google-adsense-account" content="ca-pub-4936651592937784"></meta>
     </header>
   )
 }
