@@ -111,5 +111,23 @@ export const NavData: NavData[] = [
         link: "https://nav.liwenkai.fun"
       }
     ]
+  },
+  {
+    title: "数据",
+    items: [
+      {
+        icon: "https://tushare.pro/static/frontend/images/favicon-32x32.png",
+        title: "Tushare",
+        desc: "Tushare是一个免费、开源的python财经数据接口包。主要实现对股票等金融数据从数据采集、清洗加工 到 数据存储的过程，能够为金融分析人员提供快速、整洁、和多样的便于分析的数据，为他们在数据获取方面极大地减轻工作量，使他们更加专注于策略和模型的研究与实现上。",
+        link: "https://tushare.pro/register?reg=771968"
+      }
+      // ,
+      // {
+      //   icon: "https://tushare.pro/static/frontend/images/favicon-32x32.png",
+      //   title: "AKShare",
+      //   desc: "AKShare是一款基于Python的开源金融数据接口库，旨在为个人投资者和研究人员提供方便获取广泛金融数据的工具。该库涵盖股票、期货、期权、基金、债券、指数、数字货币、外汇、宏观经济等多种金融数据类型，数据来源于公开的数据源",
+      //   link: "https://tushare.pro/register?reg=771968"
+      // }
+    ]
   }
 ]
