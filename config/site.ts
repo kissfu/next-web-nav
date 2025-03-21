@@ -98,6 +98,12 @@ export const NavData: NavData[] = [
         title: "硅基流动",
         desc: "基于优秀的开源模型，提供高性价比的 GenAI 云服务.文本对话 · 图像生成 · 视频生成 · 语音合成",
         link: "https://cloud.siliconflow.cn/i/MU6sa7EJ"
+      },
+      {
+        icon: "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+        title: "阿里云百炼",
+        desc: "阿里云推出的一站式大模型开发与应用平台，旨在帮助企业和开发者快速构建、部署及优化大模型应用，支持从模型调用、训练到应用落地的全流程服务",
+        link: "https://www.aliyun.com/product/bailian"
       }
     ]
   },
