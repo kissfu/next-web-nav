@@ -70,6 +70,12 @@ export const NavData: NavData[] = [
         title: "问小白",
         desc: "您好！我是“问小白”智能助手中的AI大模型，基于深度求索（DeepSeek）的DeepSeek-R1-671B模型开发，擅长通过自然对话为您提供信息查询、逻辑推理、创意生成等多方面的帮助",
         link: "https://www.wenxiaobai.com/chat" 
+      },
+      {
+        icon: "https://www.wenxiaobai.com/new_favicon.ico",
+        title: "纳米AI搜索",
+        desc: "纳米 AI 搜索是由 360 推出的全新 AI 搜索产品，旨在通过多模态内容创作引擎，为用户提供一站式的 “搜、学、写、创” 服务，推动搜索进入 3.0 时代",
+        link: "https://www.n.cn/" 
       }
     ]
   },
@@ -134,6 +140,17 @@ export const NavData: NavData[] = [
       //   desc: "AKShare是一款基于Python的开源金融数据接口库，旨在为个人投资者和研究人员提供方便获取广泛金融数据的工具。该库涵盖股票、期货、期权、基金、债券、指数、数字货币、外汇、宏观经济等多种金融数据类型，数据来源于公开的数据源",
       //   link: "https://tushare.pro/register?reg=771968"
       // }
+    ]
+  },
+  {
+    title: "论文",
+    items: [
+      {
+        icon: "https://www.wc.pub/wc.png",
+        title: "AI小微智能写作",
+        desc: "收费。你只负责输入标题，写论文的这100小时，小微来帮你节省。",
+        link: "http://apmq2k.checkmore.net/tb/htjR1P?dCode=vxovvO0Pybsdl9Yu&couponCode=xiaoweilunwen"
+      }
     ]
   }
 ]
