@@ -76,6 +76,12 @@ export const NavData: NavData[] = [
         title: "纳米AI搜索",
         desc: "纳米 AI 搜索是由 360 推出的全新 AI 搜索产品，旨在通过多模态内容创作引擎，为用户提供一站式的 “搜、学、写、创” 服务，推动搜索进入 3.0 时代",
         link: "https://www.n.cn/" 
+      },
+      {
+        icon: "https://static.tiangong.cn/prod-skywork-web-bundle/favicon.ico",
+        title: "天工Skywork",
+        desc: "天工Skywork-13B开源大模型 Skywork-13B。天工 Skywork 是 AI Office 智能体，含 3 专家 + 1 通用 agent，可生成文档、PPT、表格，支持网页、图像等创意创作。融合多模态与深度检索技术，提供科研级结果，助职场人、学生等提升效率，释放创造力。",
+        link: "https://www.tiangong.cn/login?invite_code=fdc88b40e0700b7ef3c69ff3aaaa264f" 
       }
     ]
   },
