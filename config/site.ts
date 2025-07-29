@@ -116,6 +116,12 @@ export const NavData: NavData[] = [
         title: "阿里云百炼",
         desc: "阿里云推出的一站式大模型开发与应用平台，旨在帮助企业和开发者快速构建、部署及优化大模型应用，支持从模型调用、训练到应用落地的全流程服务",
         link: "https://www.aliyun.com/product/bailian"
+      },
+      {
+        icon: "https://portal.volccdn.com/obj/volcfe/misc/favicon.png",
+        title: "火山方舟",
+        desc: "抖音推出火山方舟提供模型训练、推理、评测、精调等全方位功能与服务，并重点支撑大模型生态。",
+        link: "https://www.volcengine.com/product/ark"
       }
     ]
   },
@@ -127,6 +133,12 @@ export const NavData: NavData[] = [
         title: "文凯导航",
         desc: "一个简单好用的导航网站，里面是一些网站开发常用的网站",
         link: "https://nav.liwenkai.fun"
+      },
+      {
+        icon: "https://assets.cdn.ifixit.com/static/icons/ifixit/favicon-32x32.png",
+        title: "iFixit",
+        desc: "iFixit 是一个以维修为主题的全球性互助社区。从一个一个的设备开始，让我们来一步一个脚印一点一点的修复这个世界。你可以在问题解答论坛和专家一起互动——还可以创建并与全世界分享由你编篡的维修手册。你可以在这里买到所有关于你的 DIY 维修计划的配件及工具，帮助修复好你的苹果或安卓设备。",
+        link: "https://zh.ifixit.com"
       }
     ]
   },
