@@ -82,6 +82,12 @@ export const NavData: NavData[] = [
         title: "天工Skywork",
         desc: "天工Skywork-13B开源大模型 Skywork-13B。天工 Skywork 是 AI Office 智能体，含 3 专家 + 1 通用 agent，可生成文档、PPT、表格，支持网页、图像等创意创作。融合多模态与深度检索技术，提供科研级结果，助职场人、学生等提升效率，释放创造力。",
         link: "https://www.tiangong.cn/login?invite_code=fdc88b40e0700b7ef3c69ff3aaaa264f" 
+      },
+      {
+        icon: "https://pic1.zhimg.com/v2-7e3856b1a6d415224ca95814132a3612.png",
+        title: "知乎直答",
+        desc: "知乎推出的一款使用 AI 大模型等先进技术的产品，以知乎社区的优质内容为核心，多种数据源为辅助，为人们提供一种全新的获取可靠信息的途径。知乎直答是多智能体系统，能够满足用户多维度的需求；同时对生成结果进行溯源，以确保内容的可信、可控以及对知识产权和版权的尊重。知乎直答致力于为用户提供卓越的使用体验，用技术拉近创作者和用户之间的距离。有问题，就会有答案。",
+        link: "https://zhida.zhihu.com" 
       }
     ]
   },
