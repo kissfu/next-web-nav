@@ -100,7 +100,7 @@ export function SiteHeader() {
         </CommandList>
       </CommandDialog>
       <meta name="google-adsense-account" content="ca-pub-4936651592937784"></meta>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5866676543466542" crossorigin="anonymous"></script>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5866676543466542" crossOrigin="anonymous"></script>
     </header>
   )
 }
