@@ -105,6 +105,12 @@ export const NavData: NavData[] = [
         title: "Gemini",
         desc: "Google DeepMind（谷歌母公司Alphabet下设立的人工智能实验室）于2023年12月6日发布的人工智能模型，可同时识别文本、图像、音频、视频和代码五种类型信息，还可以理解并生成主流编程语言的高质量代码",
         link: "https://gemini.google.com" 
+      },
+      {
+        icon: "https://www.wc.pub/wc.png",
+        title: "Watch TV Global",
+        desc: "Watch Free Live TV from Around the World on tv.garden! Stream live news, sports, and entertainment—no subscription needed. Start watching now!",
+        link: "https://tv.garden/" 
       }
     ]
   },
