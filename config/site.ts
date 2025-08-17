@@ -180,6 +180,12 @@ export const NavData: NavData[] = [
         title: "AI小微智能写作",
         desc: "收费。你只负责输入标题，写论文的这100小时，小微来帮你节省。",
         link: "http://apmq2k.checkmore.net/tb/htjR1P?dCode=vxovvO0Pybsdl9Yu&couponCode=xiaoweilunwen"
+      },
+			{
+        icon: "https://www.wc.pub/wc.png",
+        title: "笔灵AI写作",
+        desc: "收费。想和她来一场甜甜蜜蜜的毕业旅行可是要写论文没时间怎么办？笔灵来帮你轻松搞定论文！",
+        link: "https://ibiling.cn/paper/biyeyushou?share_sign=1qw6yt"
       }
     ]
   }
